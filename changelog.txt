@@ -1,0 +1,22 @@
+*** Contact Form 7 Designer Changelog ***
+
+= 27-11-2022 - version 2.2 =
+* Fix: In-app upgrade payment modal display
+* Fix: Redux framework dependency check fatal error
+
+= 25-11-2022 - version 2.1 =
+* Fix: Updated stable tag
+
+= 25-11-2022 - version 2.0 =
+* New: Complete plugin rewrite
+* New: Compatibility with Redux Options Framework
+* New: In-app upgrades with Freemius
+* New: Pro feature highlights
+* Fix: Multiple bug fixes
+* Tweak: Add CF7, Redux and Freemius dependency checks
+
+= 8-5-2015 - version 1.1 =
+* Security Fix: Updated TGM activation class 
+
+= 17-2-2015 - version 1.0 =
+* Initial Release

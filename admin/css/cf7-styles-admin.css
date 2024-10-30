@@ -1,0 +1,55 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.redux-notice-field {
+	padding: 0.8em 1.618em !important;
+	margin-bottom: 2.617924em;
+	background-color: #2CAE79 !important;
+	margin-left: 0;
+	border-radius: 2px;
+	color: #fff !important;
+	border-left: 0.6180469716em solid rgba(0,0,0,.15) !important;
+	border-top: 0;
+}
+
+.redux-notice-field p {
+	font-size: 1.1em;
+	display: block !important;
+}
+
+.redux-notice-field p a {
+	float: right;
+	border-left: 1px solid #fff;
+	display: block;
+	padding: 0.5em 1em;
+	margin-top: -0.5em;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
+
+.redux-notice-field p a:hover {
+	background-color: #fff;
+	color: #2CAE79;
+	border-radius: 3px;
+}
+
+.redux-notice-field.redux-critical {
+	background-color: #2CAE79 !important;
+}
+
+.redux-sidebar .redux-group-menu li.pro-upgrade {
+	position: relative;
+}
+
+.redux-sidebar .redux-group-menu li.pro-upgrade:after {
+	content: "Pro";
+	position: absolute;
+	background-color: #fff;
+	top: 7px;
+	right: 7px;
+	padding: 3px;
+	border-radius: 3px;
+}
